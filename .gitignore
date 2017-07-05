@@ -33,3 +33,6 @@
 
 # Matheatica dump
 *.mx
+
+# Custom directories
+Project/Export/
